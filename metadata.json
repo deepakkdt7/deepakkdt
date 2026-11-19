@@ -1,0 +1,6 @@
+{
+  "name": "AI Assist",
+  "description": "Enterprise customer operations platform with multi-pane ticket triage, live SQLite backend connectivity, knowledge base grounding, automation rules, and Gemini AI Copilot.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
